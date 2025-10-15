@@ -11,11 +11,19 @@ I didn't need much considering where we are at with availability.
 - Selection 
 
 ## Installation
-1. Step 1 to install
-2. Step 2 to install
+1. Windows Enterprise OS - Hypervisor, varies by the different options avaiable 
+2. Save to newly selected drive 
 
 ## Usage
-Instructions on how to use the project.
+Once you add your baseline of software and set network settings. 
+You start to see a noticeable size increase. 
+
+Make sure to select a drive for size and also speed. 
+I messed up by using a slower drive. 
+
+It crasahed so I was forced to start with the faster of the two drives 
+
+<img width="289" height="173" alt="image" src="https://github.com/user-attachments/assets/843c5462-fb0b-4106-a174-03ac671f242c" />
 
 ## Contributing
 Guidelines for contributing to the project.
