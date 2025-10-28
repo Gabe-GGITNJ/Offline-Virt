@@ -1,9 +1,9 @@
 # Offline Virt
 
 ## Overview
-This project is designed to provide an offline virtual environment to test Operating Systems. The challenge I came across is something that's going to be recurring as companies release new Operating Systems. Not only are new Operating Systems going to be released, there will be updates that mzy change or present a conflict with existing configurations in your environment.  Along with Operating Systems and their respective updates, there will be hardware options that may not be compatible.
+This project is designed to provide an offline virtual environment to test Operating Systems. The challenge I came across is something that's going to be recurring as companies release new Operating Systems. Not only are new Operating Systems going to be released, there will be updates that mzy change or present a conflict with existing configurations in your environment.  
 
-Another challenge that presented itself was that certain pieces of Hardware and a few software applications will not work with the latest and greatest Operating Systems. 
+Along with Operating Systems and their respective updates, there will be hardware options that may not be compatible.
 
 I had a total of one half of a terabyte of empty storage options and wanted to test out features of an enterprise grade OS within a safe environment. 
 I didn't need muchspace, considering where we are at with storage availability.  At least that was my mindset when I started. 
@@ -18,7 +18,6 @@ I didn't need muchspace, considering where we are at with storage availability. 
 
 ## Installation
 1. Windows Enterprise OS - Hypervisor, varies by the different options avaiable. I used VMWare but there are a variety of options available to use.
-Once you have selected the Hypervisor you want to use
 
 2. Save to newly selected drive
 
