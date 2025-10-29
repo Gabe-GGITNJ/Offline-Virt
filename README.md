@@ -27,7 +27,7 @@ I didn't need much space, considering where we are at with storage availability.
 Once you add your baseline of software apps and set network settings. 
 You start to see a noticeable size increase. This was something that I expected so there wasn't any suprises. 
 
-* THe one suprise I didn't expect was the first drive I used crashed with plenty of storage space left.
+* The one suprise I didn't expect was the first drive I used crashed with plenty of storage space left.
   That's when I realized the crash occurred because of drive speed and the connection being used.  Not because of space.
 
 What I did to overcome this hiccup is I selected another drive for configuration. It was a faster drive and used a USB 2.0 Connection. 
